@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./saturarumlibriv00juvegoog_0133.png"; bbox 0 0 3282 5302; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 418 366 1266 438">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 418 366 1266 438">
+     <span class='ocr_line' id='line_1_1' title="bbox 418 366 1266 438; baseline 0.012 -14"><span class='ocrx_word' id='word_1_1' title='bbox 418 370 472 424; x_wconf 85' lang='lat' dir='ltr'>Zur</span> <span class='ocrx_word' id='word_1_2' title='bbox 491 367 658 424; x_wconf 76' lang='lat' dir='ltr'><strong>Geschichte</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 677 368 726 425; x_wconf 75' lang='lat' dir='ltr'>der</span> <span class='ocrx_word' id='word_1_4' title='bbox 743 366 984 438; x_wconf 78' lang='lat' dir='ltr'>Ueberlieserung.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1206 371 1266 434; x_wconf 83' lang='lat'>119</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 125 538 1268 740">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 125 538 1268 740">
+     <span class='ocr_line' id='line_1_2' title="bbox 125 538 1268 627; baseline -0.002 -19"><span class='ocrx_word' id='word_1_6' title='bbox 125 541 275 609; x_wconf 79' lang='lat' dir='ltr'><strong>Verlauf</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 300 539 367 607; x_wconf 87' lang='lat' dir='ltr'>und</span> <span class='ocrx_word' id='word_1_8' title='bbox 393 541 448 606; x_wconf 83' lang='lat' dir='ltr'>die</span> <span class='ocrx_word' id='word_1_9' title='bbox 470 539 675 625; x_wconf 77' lang='lat' dir='ltr'>wiehtigsten</span> <span class='ocrx_word' id='word_1_10' title='bbox 697 539 921 627; x_wconf 79' lang='lat' dir='ltr'>Haltepunkte</span> <span class='ocrx_word' id='word_1_11' title='bbox 945 538 1003 606; x_wconf 80' lang='lat' dir='ltr'>der</span> <span class='ocrx_word' id='word_1_12' title='bbox 1025 538 1194 606; x_wconf 74' lang='lat' dir='ltr'><strong>Tradition</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1215 541 1268 606; x_wconf 82' lang='lat' dir='ltr'>ins</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 126 652 485 740; baseline -0.014 -19"><span class='ocrx_word' id='word_1_14' title='bbox 126 654 228 740; x_wconf 82' lang='lat' dir='ltr'><strong>Auge</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 252 652 377 739; x_wconf 79' lang='lat' dir='ltr'>gefasst</span> <span class='ocrx_word' id='word_1_16' title='bbox 398 652 485 719; x_wconf 80' lang='lat' dir='ltr'>sind:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 578 796 754 853">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 578 796 754 853">
+     <span class='ocr_line' id='line_1_4' title="bbox 578 796 754 853; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 578 825 613 836; x_wconf 91' lang='lat'>-</span> <span class='ocrx_word' id='word_1_18' title='bbox 630 796 754 853; x_wconf 74' lang='lat' dir='ltr'><strong>Nicaeus</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1646 5302">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1646 5302">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1646 5302; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 1646 5302; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
